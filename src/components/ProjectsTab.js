@@ -9,7 +9,7 @@ function ProjectsTab()
     return(
         <>
 <div className="flex justify-center mt-10">
-    <div className="flex w-full max-w-4xl bg-white/10 backdrop-blur-lg rounded-2xl border border-white/10 p-2">
+    <div className="flex w-full max-w-4xl overflow-x-auto sm:overflow-visible bg-white/10 backdrop-blur-lg rounded-2xl border border-white/10 p-2">
     <button onClick={()=>setActive("projects")} className={`tab-btn ${active==="projects" ? "tab-active":""}`}>
         <FaCode/>
         <span>Projects</span>

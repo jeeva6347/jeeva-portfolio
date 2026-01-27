@@ -6,7 +6,7 @@ function Nav() {
     
     <header className=" fixed top-0 w-full h-20 flex bg-slate-900/90
          backdrop-blur-md justify-between items-center px-10 p-6 z-50" >
-      <a href="#home" className="font-semibold  px-5 text-xl  sm:text-2xl font-serif
+      <a href="#home" className="font-semibold  px-3 text-xl  sm:text-2xl font-serif
         bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500
         bg-clip-text text-transparent
         tracking-tight">Jeeva L</a>

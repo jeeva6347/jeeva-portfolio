@@ -1,4 +1,4 @@
-import { FaCode, FaCertificate, FaLayerGroup } from "react-icons/fa";
+import { FaCode, FaCertificate } from "react-icons/fa";
 function About()
 {
     return (

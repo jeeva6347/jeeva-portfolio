@@ -40,6 +40,12 @@ const projectsData=[
         live: "https://jeeva6347.github.io/BookSuggestion/",
         image:"/images/img6.png",
     },
+    {
+        title: "Social Mood Matcher",
+        desc: "An AI tool designed to generate captions and hashtags from images.",
+        live: "https://social-mood-matcher-nvzgn5zhsjunavtm5qvzxb.streamlit.app/",
+        image:"/images/img7.png",
+    },
     
 ]
 export default projectsData;

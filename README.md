@@ -32,9 +32,9 @@ A modern and responsive portfolio website built with **React.js** to showcase my
 
 <img width="1352" height="629" alt="Screenshot 2026-07-11 153238" src="https://github.com/user-attachments/assets/0fb406c0-6454-498b-bb75-822be7d0a5ae" />
 <img width="1348" height="630" alt="Screenshot 2026-07-11 153323" src="https://github.com/user-attachments/assets/e23d8437-33e6-4e33-94f4-7b7d24d62bd5" />
-<img width="1339" height="624" alt="Screenshot 2026-07-11 153507" src="https://github.com/user-attachments/assets/efe61896-ae49-4186-a268-87d437350b1b" />
-<img width="1346" height="615" alt="Screenshot 2026-07-11 153447" src="https://github.com/user-attachments/assets/26870866-0b11-47af-b0e5-62aefb5e0a06" />
 <img width="1348" height="630" alt="Screenshot 2026-07-11 153421" src="https://github.com/user-attachments/assets/6eac543a-5828-4707-86af-5a0279a345d5" />
+<img width="1346" height="615" alt="Screenshot 2026-07-11 153447" src="https://github.com/user-attachments/assets/26870866-0b11-47af-b0e5-62aefb5e0a06" />
+<img width="1339" height="624" alt="Screenshot 2026-07-11 153507" src="https://github.com/user-attachments/assets/efe61896-ae49-4186-a268-87d437350b1b" />
 
 ---
 

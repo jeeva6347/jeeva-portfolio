@@ -23,6 +23,10 @@ const CertificateData=[
         image:"/images/cer6.png",
         link:"/certificate/certificate.pdf",
     },
+    {
+        image:"/images/cer7.jpeg",
+        link:"/certificate/cer7.jpeg",
+    }
 
 ]
 export default CertificateData;

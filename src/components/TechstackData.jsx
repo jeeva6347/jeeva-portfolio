@@ -21,11 +21,11 @@ const Techstackdata=[
     },
      {
  title:"Python",
- image:"/images/python.png"
+ image:"/images/Python.png"
     },
      {
  title:"Java",
- image:"/images/java.png"
+ image:"/images/Java.png"
     },
      {
  title:"Reactjs",

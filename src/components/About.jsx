@@ -31,7 +31,7 @@ function About()
              
             <div className="glass-card relative w-full max-w-sm">
                 <FaCertificate className="text-3xl text-yellow-500"/>
-                <h3 className="absolute top-6 right-6 text-4xl font-bold text-white">6</h3>
+                <h3 className="absolute top-6 right-6 text-4xl font-bold text-white">7</h3>
                 <div className="mt-10 text-center">
                 <p className="uppercase text-sm tracking-wide">Certificates</p>
                 <span className="text-gray-400 text-sm">

@@ -4,12 +4,25 @@ function About()
     return (
 <section id="about" className="min-h-screen text-white flex flex-col items-center text-center justify-center px-5 pt-22 scroll-mt-24">
 
-    <h2 className="text-4xl mb-10 sm:text-5xl font-sans
-        bg-gradient-to-r from-indigo-400 via-purple-500 to-pink-500
-        bg-clip-text text-transparent
-        tracking-tight">About Me</h2>
-    
-    <p className="max-w-3xl text-lg text-gray-300">I am a passionate Full Stack Web Developer with strong fundamentals and practical experience in building modern web applications. Through a Full Stack Web Development internship, I have developed multiple projects using modern technologies. I am motivated to contribute my skills in a professional environment and continue growing as a developer.</p>
+   <div className="mb-10 text-center">
+  <h2
+    className="text-4xl sm:text-5xl font-sans
+    bg-gradient-to-r from-indigo-400 via-purple-500 to-pink-500
+    bg-clip-text text-transparent
+    tracking-tight"
+  >
+    About Me
+  </h2>
+
+  <div
+    className="mx-auto mt-4 h-1 w-20 rounded-full
+    bg-gradient-to-r from-indigo-400 via-purple-500 to-pink-500"
+  />
+</div>
+    <p className="max-w-3xl text-lg text-gray-300">
+        I’m a Full Stack Web Developer focused on building responsive, user-friendly, and practical web applications. I work with modern frontend and backend technologies to create clean, reliable solutions for businesses, individuals, and personal projects. I enjoy turning ideas into functional web experiences
+         while continuously improving my development skills.
+    </p>
    <a href="#projects"> 
     <div className="grid grid-cols-1 sm:grid-cols-2  gap-8 max-w-6xl mx-auto mt-8 justify-items-center">
         

@@ -1,6 +1,7 @@
 import Nav from "./components/Nav";
 import Body from "./components/Body";
 import About from "./components/About";
+import Services from "./components/Services";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 function App() {
@@ -9,6 +10,7 @@ function App() {
       <Nav/>
       <Body/>
       <About/>
+      <Services />
       <Projects/>
       <Contact/>
       <footer className="mt-20">

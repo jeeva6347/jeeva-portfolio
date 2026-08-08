@@ -9,6 +9,10 @@ function Projects()
         bg-gradient-to-r from-indigo-400 via-purple-500 to-pink-500
         bg-clip-text text-transparent
         tracking-tight">Portfolio Showcase</h2>
+        <div
+          className="mx-auto mt-4 h-1 w-40 rounded-full
+          bg-gradient-to-r from-indigo-400 via-purple-500 to-pink-500"
+        />
         <p className="mt-4 max-w-3xl mx-auto text-gray-400 text-base sm:text-lg">Explore my journey through projects, certifications, and technical skills, highlighting my continuous 
             learning and growth.</p>
     </div>

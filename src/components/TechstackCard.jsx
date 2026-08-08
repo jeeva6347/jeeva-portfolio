@@ -1,4 +1,4 @@
-function TechstackGrid({ image, title }) {
+function TechstackCard({ image, title }) {
   return (
     <div className="relative group w-full">
 
@@ -46,4 +46,4 @@ function TechstackGrid({ image, title }) {
   );
 }
 
-export default TechstackGrid;
+export default TechstackCard;

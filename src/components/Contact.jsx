@@ -40,17 +40,18 @@ function Contact() {
       <div className="relative max-w-lg w-full bg-white/10 backdrop-blur-xl rounded-2xl border border-white/10">
 
         <h3
-          className="py-6 font-bold text-2xl sm:text-3xl
+          className="pb-2 pt-6 font-bold text-2xl sm:text-3xl
           bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500
           bg-clip-text text-transparent
           tracking-tight text-center"
         >
           Contact Me
         </h3>
+        <div className="mx-auto mb-6 h-1 w-24 rounded-full bg-gradient-to-r from-indigo-400 via-purple-500 to-pink-500" />
 
         <form ref={formRef} onSubmit={sendEmail} className="space-y-5">
 
-          {/* Name */}
+          
           <div className="relative flex justify-center">
             <FaUser className="absolute left-[16%] sm:left-[11%] top-1/2 -translate-y-1/2 text-gray-400" />
 
@@ -63,7 +64,7 @@ function Contact() {
             />
           </div>
 
-          {/* Email */}
+        
           <div className="relative flex justify-center">
             <FaEnvelope className="absolute left-[16%] sm:left-[11%] top-1/2 -translate-y-1/2 text-gray-400" />
 
